@@ -1,6 +1,7 @@
 print 'Hello World. Good Morning'
 
-print 'Good Afternoon'
+msg = 'Good Afternoon'
+print msg
 
 print 'I call the method from the class defined in my-api file'
 
